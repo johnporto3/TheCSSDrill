@@ -75,3 +75,97 @@ a:hover {
     width: 8rem;
     height: 8rem;
 }
+
+h1 {
+    color: chartreuse;
+}
+
+.text-style1 {
+    color: blueviolet;
+}
+
+.text-style2 {
+    color: darkgreen;
+}
+
+#rank1 {
+    color: gold;
+}
+
+#rank2 {
+    color: silver;
+}
+
+#rank3 {
+    color: brown;
+}
+
+#rank4  {
+    color: red;
+}
+
+#rank5  {
+    color: blue;
+}
+
+.friend1 {
+    color: darkolivegreen;
+}
+
+.friend2 {
+    color: deeppink;
+}
+
+.friend3 {
+    color: gold;
+}
+.friend4 {
+    color: darkred;
+}
+.friend5 {
+    color: aquamarine;
+}
+
+.trip1  {
+    color: darkblue;
+}
+
+.trip2  {
+    color: forestgreen;
+}
+
+.trip3  {
+    color: lavenderblush;
+}
+
+.trip4  {
+    color: wheat;
+}
+
+.trip5  {
+    color: blueviolet
+}
+
+.food1  {
+    color: palegreen;
+}
+
+.food2  {
+    color: tomato;
+}
+
+.food3 {
+    color: khaki;
+}
+
+.food4  {
+    color: aqua;
+}
+
+.food5  {
+    color: darkgrey;
+}
+
+.box5   {
+    border: 2px black solid;
+}
