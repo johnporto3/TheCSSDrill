@@ -1,0 +1,77 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    background-color: lightgray;
+}
+
+.boxes {
+    text-align: center;
+}
+
+.boxes a {
+    text-decoration: none;   
+}
+
+.boxes {
+    display: inline-block;
+    margin: 3rem;
+    padding: 2rem;
+    border-style: solid;
+    border-radius: 3rem;
+    display: block;
+    width: 20%;
+}
+
+a:hover {
+    color: orange;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#changeFont {
+    color: coral;
+    font-weight: bolder;
+}
+
+.box1 {
+    background-color: cadetblue;
+    
+}
+
+.box2 {
+    background-color: deeppink;
+}
+
+.box3 {
+    background-color: rgb(66, 135, 66);
+}
+
+.box4 {
+    background-color: gray;
+}
+
+.image1 {
+    background-color: orange;
+    width: 8rem;
+    height: 8rem;
+    display: inline-block;
+    
+}
+
+.image2 {
+    background-color: rgb(3, 130, 169);
+    width: 8rem;
+    height: 8rem;
+}
+
+.image3 {
+    background-color: cornsilk;
+    width: 8rem;
+    height: 8rem;
+}
+
+.image4 {
+    background-color: red;
+    width: 8rem;
+    height: 8rem;
+}
